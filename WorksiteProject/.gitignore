@@ -1,0 +1,9 @@
+/bin/
+/target/
+/CucumberScreenshots/
+/output/
+/test-output/
+maven.properties
+/.metadata
+/.settings
+/CurrentExecution.properties
